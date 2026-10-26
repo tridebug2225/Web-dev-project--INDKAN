@@ -1,0 +1,33 @@
+:root {
+    --forest: #20563B;
+    --fresh: #D2E7B6;
+    --warm-white: #F6F7F0;
+    --harvest: #D99542;
+}
+
+.brand-name {
+    color: var(--forest);
+    letter-spacing: 2px;
+}
+
+.hero-section {
+    background-color: var(--warm-white);
+}
+
+.inquiry-section {
+    background-color: var(--fresh);
+}
+
+.btn-success {
+    --bs-btn-bg: var(--forest);
+    --bs-btn-border-color: var(--forest);
+    --bs-btn-hover-bg: #173F2B;
+    --bs-btn-hover-border-color: #173F2B;
+}
+
+.btn-outline-success {
+    --bs-btn-color: var(--forest);
+    --bs-btn-border-color: var(--forest);
+    --bs-btn-hover-bg: var(--forest);
+    --bs-btn-hover-border-color: var(--forest);
+}

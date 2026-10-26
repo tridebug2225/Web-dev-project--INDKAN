@@ -1,4 +1,3 @@
-# Web-dev-project--INDKAN
 INDKAN – Fresh Produce, Global Trade 🌿
 
 A responsive website concept for a fruits, vegetables, and agricultural products import–export business. The project focuses on presenting products, connecting with international buyers, and making bulk trade enquiries easier.
